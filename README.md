@@ -1,4 +1,5 @@
 ### Hi there 👋
+GIT_DIR/objects
 
 <!--
 **Perale57/Perale57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +27,6 @@ La **PLANEACIÓN ESTRATÉGICA** es el análisis y formulación de planes a nivel
 La planeación estratégica supone un paso previo a la implantación de programas y marca las pautas de actuación. Dado que se trata, en cierto sentido, de una forma de previsión, la planeación estratégica también puede contener distintas opciones o modelos estratégicos aplicables en función de las circunstancias que se vayan detectando. 
 
 ![principios-basicos-para-administrar-una-empresa](https://user-images.githubusercontent.com/78628947/114534809-ff36ea00-9c14-11eb-95d6-2e15a195d4f4.png)
-[Rol de actividades ]($GIT_DIR/objects/.) 
+[Rol de actividades ](https://whatsapp.com/channel/0029Vao381O5q08jgkogsR0L) 
 
 
